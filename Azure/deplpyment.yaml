@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: siddh.azurecr.io/sidwar76/hello-node
+        image: sidwar76/hello-node
         resources:
           requests:
             cpu: 100m
